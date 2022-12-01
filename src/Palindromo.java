@@ -8,7 +8,6 @@ public class Palindromo {
         String palavra = scan.nextLine();
 
         palindromo(palavra);
-
     }
 
     private static void palindromo(String palavra) {
